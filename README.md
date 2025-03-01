@@ -34,6 +34,7 @@ Keep stakeholders informed about the budget status and involve them in decision-
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 Waterfall methodology folows a linear approach where each phase must be completed before beginning another one while Agile methodology focuses on delivering work in small manageable increments in cycles called sprints.
 
+
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
